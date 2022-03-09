@@ -1,0 +1,452 @@
+===============================================================
+Gobuster v3.1.0
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://10.10.148.202
+[+] Method:                  GET
+[+] Threads:                 10
+[+] Wordlist:                /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.1.0
+[+] Timeout:                 10s
+===============================================================
+2022/03/09 00:04:03 Starting gobuster in directory enumeration mode
+===============================================================
+/crack                (Status: 200) [Size: 2041]
+/news                 (Status: 200) [Size: 2041]
+/download             (Status: 200) [Size: 2041]
+/images               (Status: 200) [Size: 2041]
+/full                 (Status: 200) [Size: 2041]
+/12                   (Status: 200) [Size: 2041]
+/warez                (Status: 200) [Size: 2041]
+/2006                 (Status: 200) [Size: 2041]
+/index                (Status: 200) [Size: 2041]
+/serial               (Status: 200) [Size: 2041]
+/about                (Status: 200) [Size: 2041]
+/contact              (Status: 200) [Size: 2041]
+/search               (Status: 200) [Size: 2041]
+/privacy              (Status: 200) [Size: 2041]
+/11                   (Status: 200) [Size: 2041]
+/new                  (Status: 200) [Size: 2041]
+/spacer               (Status: 200) [Size: 2041]
+/blog                 (Status: 200) [Size: 2041]
+/logo                 (Status: 200) [Size: 2041]
+/10                   (Status: 200) [Size: 2041]
+/cgi-bin              (Status: 200) [Size: 2041]
+/faq                  (Status: 200) [Size: 2041]
+/rss                  (Status: 200) [Size: 2041]
+/img                  (Status: 200) [Size: 2041]
+/home                 (Status: 200) [Size: 2041]
+/sitemap              (Status: 200) [Size: 2041]
+/default              (Status: 200) [Size: 2041]
+/2005                 (Status: 200) [Size: 2041]
+/products             (Status: 200) [Size: 2041]
+/archives             (Status: 200) [Size: 2041]
+/1                    (Status: 200) [Size: 2041]
+/09                   (Status: 200) [Size: 2041]
+/07                   (Status: 200) [Size: 2041]
+/01                   (Status: 200) [Size: 2041]
+/08                   (Status: 200) [Size: 2041]
+/links                (Status: 200) [Size: 2041]
+/06                   (Status: 200) [Size: 2041]
+/login                (Status: 200) [Size: 2041]
+/2                    (Status: 200) [Size: 2041]
+/articles             (Status: 200) [Size: 2041]
+/support              (Status: 200) [Size: 2041]
+/05                   (Status: 200) [Size: 2041]
+/keygen               (Status: 200) [Size: 2041]
+/help                 (Status: 200) [Size: 2041]
+/article              (Status: 200) [Size: 2041]
+/03                   (Status: 200) [Size: 2041]
+/04                   (Status: 200) [Size: 2041]
+/events               (Status: 200) [Size: 2041]
+/archive              (Status: 200) [Size: 2041]
+/02                   (Status: 200) [Size: 2041]
+/register             (Status: 200) [Size: 2041]
+/en                   (Status: 200) [Size: 2041]
+/category             (Status: 200) [Size: 2041]
+/13                   (Status: 200) [Size: 2041]
+/3                    (Status: 200) [Size: 2041]
+/forum                (Status: 200) [Size: 2041]
+/software             (Status: 200) [Size: 2041]
+/downloads            (Status: 200) [Size: 2041]
+/security             (Status: 200) [Size: 2041]
+/4                    (Status: 200) [Size: 2041]
+/content              (Status: 200) [Size: 2041]
+/14                   (Status: 200) [Size: 2041]
+/templates            (Status: 200) [Size: 2041]
+/15                   (Status: 200) [Size: 2041]
+/main                 (Status: 200) [Size: 2041]
+/services             (Status: 200) [Size: 2041]
+/press                (Status: 200) [Size: 2041]
+/resources            (Status: 200) [Size: 2041]
+/icons                (Status: 200) [Size: 2041]
+/media                (Status: 200) [Size: 2041]
+/info                 (Status: 200) [Size: 2041]
+/profile              (Status: 200) [Size: 2041]
+/16                   (Status: 200) [Size: 2041]
+/html                 (Status: 200) [Size: 2041]
+/2004                 (Status: 200) [Size: 2041]
+/18                   (Status: 200) [Size: 2041]
+/contactus            (Status: 200) [Size: 2041]
+/docs                 (Status: 200) [Size: 2041]
+/features             (Status: 200) [Size: 2041]
+/files                (Status: 200) [Size: 2041]
+/20                   (Status: 200) [Size: 2041]
+/21                   (Status: 200) [Size: 2041]
+/page                 (Status: 200) [Size: 2041]
+/5                    (Status: 200) [Size: 2041]
+/22                   (Status: 200) [Size: 2041]
+/19                   (Status: 200) [Size: 2041]
+/6                    (Status: 200) [Size: 2041]
+/misc                 (Status: 200) [Size: 2041]
+/partners             (Status: 200) [Size: 2041]
+/24                   (Status: 200) [Size: 2041]
+/terms                (Status: 200) [Size: 2041]
+/2007                 (Status: 200) [Size: 2041]
+/23                   (Status: 200) [Size: 2041]
+/i                    (Status: 200) [Size: 2041]
+/17                   (Status: 200) [Size: 2041]
+/26                   (Status: 200) [Size: 2041]
+/27                   (Status: 200) [Size: 2041]
+/top                  (Status: 200) [Size: 2041]
+/9                    (Status: 200) [Size: 2041]
+/legal                (Status: 200) [Size: 2041]
+/30                   (Status: 200) [Size: 2041]
+/banners              (Status: 200) [Size: 2041]
+/29                   (Status: 200) [Size: 2041]
+/7                    (Status: 200) [Size: 2041]
+/xml                  (Status: 200) [Size: 2041]
+/tools                (Status: 200) [Size: 2041]
+/28                   (Status: 200) [Size: 2041]
+/projects             (Status: 200) [Size: 2041]
+/25                   (Status: 200) [Size: 2041]
+/0                    (Status: 200) [Size: 2041]
+/user                 (Status: 200) [Size: 2041]
+/feed                 (Status: 200) [Size: 2041]
+/linux                (Status: 200) [Size: 2041]
+/forums               (Status: 200) [Size: 2041]
+/jobs                 (Status: 200) [Size: 2041]
+/themes               (Status: 200) [Size: 2041]
+/business             (Status: 200) [Size: 2041]
+/8                    (Status: 200) [Size: 2041]
+/email                (Status: 200) [Size: 2041]
+/video                (Status: 200) [Size: 2041]
+/books                (Status: 200) [Size: 2041]
+/banner               (Status: 200) [Size: 2041]
+/view                 (Status: 200) [Size: 2041]
+/graphics             (Status: 200) [Size: 2041]
+/reviews              (Status: 200) [Size: 2041]
+/feedback             (Status: 200) [Size: 2041]
+/research             (Status: 200) [Size: 2041]
+/print                (Status: 200) [Size: 2041]
+/pdf                  (Status: 200) [Size: 2041]
+/ads                  (Status: 200) [Size: 2041]
+/2003                 (Status: 200) [Size: 2041]
+/modules              (Status: 200) [Size: 2041]
+/blank                (Status: 200) [Size: 2041]
+/company              (Status: 200) [Size: 2041]
+/pub                  (Status: 200) [Size: 2041]
+/copyright            (Status: 200) [Size: 2041]
+/games                (Status: 200) [Size: 2041]
+/common               (Status: 200) [Size: 2041]
+/site                 (Status: 200) [Size: 2041]
+/comments             (Status: 200) [Size: 2041]
+/aboutus              (Status: 200) [Size: 2041]
+/people               (Status: 200) [Size: 2041]
+/product              (Status: 200) [Size: 2041]
+/logos                (Status: 200) [Size: 2041]
+/sports               (Status: 200) [Size: 2041]
+/buttons              (Status: 200) [Size: 2041]
+/story                (Status: 200) [Size: 2041]
+/english              (Status: 200) [Size: 2041]
+/image                (Status: 200) [Size: 2041]
+/uploads              (Status: 200) [Size: 2041]
+/31                   (Status: 200) [Size: 2041]
+/subscribe            (Status: 200) [Size: 2041]
+/blogs                (Status: 200) [Size: 2041]
+/gallery              (Status: 200) [Size: 2041]
+/atom                 (Status: 200) [Size: 2041]
+/newsletter           (Status: 200) [Size: 2041]
+/stats                (Status: 200) [Size: 2041]
+/careers              (Status: 200) [Size: 2041]
+/music                (Status: 200) [Size: 2041]
+/pages                (Status: 200) [Size: 2041]
+/technology           (Status: 200) [Size: 2041]
+/publications         (Status: 200) [Size: 2041]
+/calendar             (Status: 200) [Size: 2041]
+/stories              (Status: 200) [Size: 2041]
+/papers               (Status: 200) [Size: 2041]
+/photos               (Status: 200) [Size: 2041]
+/community            (Status: 200) [Size: 2041]
+/arrow                (Status: 200) [Size: 2041]
+/history              (Status: 200) [Size: 2041]
+/data                 (Status: 200) [Size: 2041]
+/submit               (Status: 200) [Size: 2041]
+/www                  (Status: 200) [Size: 2041]
+/web                  (Status: 200) [Size: 2041]
+/s                    (Status: 200) [Size: 2041]
+/library              (Status: 200) [Size: 2041]
+/wiki                 (Status: 200) [Size: 2041]
+/header               (Status: 200) [Size: 2041]
+/education            (Status: 200) [Size: 2041]
+/internet             (Status: 200) [Size: 2041]
+/go                   (Status: 200) [Size: 2041]
+/in                   (Status: 200) [Size: 2041]
+/b                    (Status: 200) [Size: 2041]
+/advertise            (Status: 200) [Size: 2041]
+/spam                 (Status: 200) [Size: 2041]
+/nav                  (Status: 200) [Size: 2041]
+/users                (Status: 200) [Size: 2041]
+/mail                 (Status: 200) [Size: 2041]
+/topics               (Status: 200) [Size: 2041]
+/Images               (Status: 200) [Size: 2041]
+/members              (Status: 200) [Size: 2041]
+/disclaimer           (Status: 200) [Size: 2041]
+/store                (Status: 200) [Size: 2041]
+/clear                (Status: 200) [Size: 2041]
+/feeds                (Status: 200) [Size: 2041]
+/c                    (Status: 200) [Size: 2041]
+/awards               (Status: 200) [Size: 2041]
+/2002                 (Status: 200) [Size: 2041]
+/Default              (Status: 200) [Size: 2041]
+/a                    (Status: 200) [Size: 2041]
+/general              (Status: 200) [Size: 2041]
+/pics                 (Status: 200) [Size: 2041]
+/solutions            (Status: 200) [Size: 2041]
+/dir                  (Status: 200) [Size: 2041]
+/signup               (Status: 200) [Size: 2041]
+/map                  (Status: 200) [Size: 2041]
+/News                 (Status: 200) [Size: 2041]
+/public               (Status: 200) [Size: 2041]
+/doc                  (Status: 200) [Size: 2041]
+/de                   (Status: 200) [Size: 2041]
+/weblog               (Status: 200) [Size: 2041]
+/index2               (Status: 200) [Size: 2041]
+/shop                 (Status: 200) [Size: 2041]
+/contacts             (Status: 200) [Size: 2041]
+/fr                   (Status: 200) [Size: 2041]
+/homepage             (Status: 200) [Size: 2041]
+/button               (Status: 200) [Size: 2041]
+/list                 (Status: 200) [Size: 2041]
+/travel               (Status: 200) [Size: 2041]
+/pixel                (Status: 200) [Size: 2041]
+/documents            (Status: 200) [Size: 2041]
+/viewtopic            (Status: 200) [Size: 2041]
+/overview             (Status: 200) [Size: 2041]
+/tips                 (Status: 200) [Size: 2041]
+/adclick              (Status: 200) [Size: 2041]
+/contact_us           (Status: 200) [Size: 2041]
+/movies               (Status: 200) [Size: 2041]
+/wp-content           (Status: 200) [Size: 2041]
+/catalog              (Status: 200) [Size: 2041]
+/us                   (Status: 200) [Size: 2041]
+/p                    (Status: 200) [Size: 2041]
+/staff                (Status: 200) [Size: 2041]
+/hardware             (Status: 200) [Size: 2041]
+/screenshots          (Status: 200) [Size: 2041]
+/apps                 (Status: 200) [Size: 2041]
+/global               (Status: 200) [Size: 2041]
+/wireless             (Status: 200) [Size: 2041]
+/version              (Status: 200) [Size: 2041]
+/online               (Status: 200) [Size: 2041]
+/directory            (Status: 200) [Size: 2041]
+/mobile               (Status: 200) [Size: 2041]
+/other                (Status: 200) [Size: 2041]
+/advertising          (Status: 200) [Size: 2041]
+/admin                (Status: 200) [Size: 2041]
+/tech                 (Status: 200) [Size: 2041]
+/faqs                 (Status: 200) [Size: 2041]
+/t                    (Status: 200) [Size: 2041]
+/welcome              (Status: 200) [Size: 2041]
+/policy               (Status: 200) [Size: 2041]
+/2001                 (Status: 200) [Size: 2041]
+/link                 (Status: 200) [Size: 2041]
+/training             (Status: 200) [Size: 2041]
+/releases             (Status: 200) [Size: 2041]
+/static               (Status: 200) [Size: 2041]
+/member               (Status: 200) [Size: 2041]
+/health               (Status: 200) [Size: 2041]
+/space                (Status: 200) [Size: 2041]
+/weather              (Status: 200) [Size: 2041]
+/join                 (Status: 200) [Size: 2041]
+/reports              (Status: 200) [Size: 2041]
+/scripts              (Status: 200) [Size: 2041]
+/browse               (Status: 200) [Size: 2041]
+/windows              (Status: 200) [Size: 2041]
+/programs             (Status: 200) [Size: 2041]
+/showallsites         (Status: 200) [Size: 2041]
+/FireFox_Reco         (Status: 200) [Size: 2041]
+/EWbutton_Community   (Status: 200) [Size: 2041]
+/menu                 (Status: 200) [Size: 2041]
+/EWbutton_GuestBook   (Status: 200) [Size: 2041]
+/EuropeMirror         (Status: 200) [Size: 2041]
+/entertainment        (Status: 200) [Size: 2041]
+/2000                 (Status: 200) [Size: 2041]
+/Home                 (Status: 200) [Size: 2041]
+/newsletters          (Status: 200) [Size: 2041]
+/pr                   (Status: 200) [Size: 2041]
+/categories           (Status: 200) [Size: 2041]
+/32                   (Status: 200) [Size: 2041]
+/assets               (Status: 200) [Size: 2041]
+/detail               (Status: 200) [Size: 2041]
+/strona_11            (Status: 200) [Size: 2041]
+/strona_14            (Status: 200) [Size: 2041]
+/strona_6             (Status: 200) [Size: 2041]
+/36                   (Status: 200) [Size: 2041]
+/strona_8             (Status: 200) [Size: 2041]
+/strona_1             (Status: 200) [Size: 2041]
+/strona_2             (Status: 200) [Size: 2041]
+/strona_3             (Status: 200) [Size: 2041]
+/strona_18            (Status: 200) [Size: 2041]
+/strona_17            (Status: 200) [Size: 2041]
+/strona_4             (Status: 200) [Size: 2041]
+/strona_16            (Status: 200) [Size: 2041]
+/strona_9             (Status: 200) [Size: 2041]
+/strona_5             (Status: 200) [Size: 2041]
+/strona_7             (Status: 200) [Size: 2041]
+/strona_15            (Status: 200) [Size: 2041]
+/strona_10            (Status: 200) [Size: 2041]
+/strona_12            (Status: 200) [Size: 2041]
+/registration         (Status: 200) [Size: 2041]
+/strona_20            (Status: 200) [Size: 2041]
+/strona_19            (Status: 200) [Size: 2041]
+/strona_13            (Status: 200) [Size: 2041]
+/strona_21            (Status: 200) [Size: 2041]
+/kontakt              (Status: 200) [Size: 2041]
+/40                   (Status: 200) [Size: 2041]
+/showthread           (Status: 200) [Size: 2041]
+/glossary             (Status: 200) [Size: 2041]
+/mailman              (Status: 200) [Size: 2041]
+/order                (Status: 200) [Size: 2041]
+/cnt                  (Status: 200) [Size: 2041]
+/tutorials            (Status: 200) [Size: 2041]
+/listinfo             (Status: 200) [Size: 2041]
+/33                   (Status: 200) [Size: 2041]
+/r                    (Status: 200) [Size: 2041]
+/35                   (Status: 200) [Size: 2041]
+/whitepapers          (Status: 200) [Size: 2041]
+/network              (Status: 200) [Size: 2041]
+/privacy_policy       (Status: 200) [Size: 2041]
+/audio                (Status: 200) [Size: 2041]
+/politics             (Status: 200) [Size: 2041]
+/footer               (Status: 200) [Size: 2041]
+/d                    (Status: 200) [Size: 2041]
+/it                   (Status: 200) [Size: 2041]
+/37                   (Status: 200) [Size: 2041]
+/eng                  (Status: 200) [Size: 2041]
+/php                  (Status: 200) [Size: 2041]
+/podcasts             (Status: 200) [Size: 2041]
+/post                 (Status: 200) [Size: 2041]
+/chat                 (Status: 200) [Size: 2041]
+/text                 (Status: 200) [Size: 2041]
+/39                   (Status: 200) [Size: 2041]
+/nl                   (Status: 200) [Size: 2041]
+/science              (Status: 200) [Size: 2041]
+/34                   (Status: 200) [Size: 2041]
+/intro                (Status: 200) [Size: 2041]
+/adview               (Status: 200) [Size: 2041]
+/account              (Status: 200) [Size: 2041]
+/comment              (Status: 200) [Size: 2041]
+/x                    (Status: 200) [Size: 2041]
+/FAQ                  (Status: 200) [Size: 2041]
+/42                   (Status: 200) [Size: 2041]
+/privacypolicy        (Status: 200) [Size: 2041]
+/uk                   (Status: 200) [Size: 2041]
+/sponsors             (Status: 200) [Size: 2041]
+/affiliates           (Status: 200) [Size: 2041]
+/node                 (Status: 200) [Size: 2041]
+/dot                  (Status: 200) [Size: 2041]
+/testimonials         (Status: 200) [Size: 2041]
+/forms                (Status: 200) [Size: 2041]
+/viewforum            (Status: 200) [Size: 2041]
+/corporate            (Status: 200) [Size: 2041]
+/donate               (Status: 200) [Size: 2041]
+/flash                (Status: 200) [Size: 2041]
+/upload               (Status: 200) [Size: 2041]
+/41                   (Status: 200) [Size: 2041]
+/portal               (Status: 200) [Size: 2041]
+/design               (Status: 200) [Size: 2041]
+/google               (Status: 200) [Size: 2041]
+/48                   (Status: 200) [Size: 2041]
+/tn                   (Status: 200) [Size: 2041]
+/bullet               (Status: 200) [Size: 2041]
+/about_us             (Status: 200) [Size: 2041]
+/service              (Status: 200) [Size: 2041]
+/faculty              (Status: 200) [Size: 2041]
+/folder               (Status: 200) [Size: 2041]
+/book                 (Status: 200) [Size: 2041]
+/special              (Status: 200) [Size: 2041]
+/servlet              (Status: 200) [Size: 2041]
+/report               (Status: 200) [Size: 2041]
+/50                   (Status: 200) [Size: 2041]
+/java                 (Status: 200) [Size: 2041]
+/38                   (Status: 200) [Size: 2041]
+/world                (Status: 200) [Size: 2041]
+/issues               (Status: 200) [Size: 2041]
+/microsoft            (Status: 200) [Size: 2041]
+/f                    (Status: 200) [Size: 2041]
+/m                    (Status: 200) [Size: 2041]
+/guide                (Status: 200) [Size: 2041]
+/memberlist           (Status: 200) [Size: 2041]
+/e                    (Status: 200) [Size: 2041]
+/es                   (Status: 200) [Size: 2041]
+/art                  (Status: 200) [Size: 2041]
+/show                 (Status: 200) [Size: 2041]
+/pubs                 (Status: 200) [Size: 2041]
+/section              (Status: 200) [Size: 2041]
+/43                   (Status: 200) [Size: 2041]
+/47                   (Status: 200) [Size: 2041]
+/buy                  (Status: 200) [Size: 2041]
+/lg                   (Status: 200) [Size: 2041]
+/photo                (Status: 200) [Size: 2041]
+/international        (Status: 200) [Size: 2041]
+/partner              (Status: 200) [Size: 2041]
+/trans                (Status: 200) [Size: 2041]
+/employment           (Status: 200) [Size: 2041]
+/45                   (Status: 200) [Size: 2041]
+/demo                 (Status: 200) [Size: 2041]
+/gfx                  (Status: 200) [Size: 2041]
+/tv                   (Status: 200) [Size: 2041]
+/local                (Status: 200) [Size: 2041]
+/cart                 (Status: 200) [Size: 2041]
+/board                (Status: 200) [Size: 2041]
+/44                   (Status: 200) [Size: 2041]
+/documentation        (Status: 200) [Size: 2041]
+/podcast              (Status: 200) [Size: 2041]
+/cs                   (Status: 200) [Size: 2041]
+/images01             (Status: 200) [Size: 2041]
+/flags                (Status: 200) [Size: 2041]
+/videos               (Status: 200) [Size: 2041]
+/perl                 (Status: 200) [Size: 2041]
+/51                   (Status: 200) [Size: 2041]
+/46                   (Status: 200) [Size: 2041]
+/current              (Status: 200) [Size: 2041]
+/cgi                  (Status: 200) [Size: 2041]
+/posts                (Status: 200) [Size: 2041]
+/pix                  (Status: 200) [Size: 2041]
+/49                   (Status: 200) [Size: 2041]
+/shopping             (Status: 200) [Size: 2041]
+/lists                (Status: 200) [Size: 2041]
+/multimedia           (Status: 200) [Size: 2041]
+/start                (Status: 200) [Size: 2041]
+/g                    (Status: 200) [Size: 2041]
+/site_map             (Status: 200) [Size: 2041]
+/promo                (Status: 200) [Size: 2041]
+/55                   (Status: 200) [Size: 2041]
+/59                   (Status: 200) [Size: 2041]
+/title                (Status: 200) [Size: 2041]
+/topic                (Status: 200) [Size: 2041]
+/opinion              (Status: 200) [Size: 2041]
+/management           (Status: 200) [Size: 2041]
+/headers              (Status: 200) [Size: 2041]
+/add                  (Status: 200) [Size: 2041]
+/icon                 (Status: 200) [Size: 2041]
+/redirect             (Status: 200) [Size: 2041]
+/60                   (Status: 200) [Size: 2041]
+/enterprise           (Status: 200) [Size: 2041]
+/results              (Status: 200) [Size: 2041]
+/all                  (Status: 200) [Size: 2041]
+/54                   (Status: 200) [Size: 2041]
+/authors              (Status: 200) [Size: 2041]
+/tag                  (Status: 200) [Size: 2041]
