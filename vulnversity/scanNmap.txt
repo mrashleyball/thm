@@ -1,0 +1,43 @@
+Starting Nmap 7.92 ( https://nmap.org ) at 2022-03-28 23:33 EDT
+NSE: Loaded 45 scripts for scanning.
+Initiating Ping Scan at 23:33
+Scanning 10.10.6.247 [4 ports]
+Completed Ping Scan at 23:33, 0.31s elapsed (1 total hosts)
+Initiating Parallel DNS resolution of 1 host. at 23:33
+Completed Parallel DNS resolution of 1 host. at 23:33, 0.00s elapsed
+Initiating SYN Stealth Scan at 23:33
+Scanning 10.10.6.247 [1000 ports]
+Discovered open port 22/tcp on 10.10.6.247
+Discovered open port 21/tcp on 10.10.6.247
+Discovered open port 445/tcp on 10.10.6.247
+Discovered open port 139/tcp on 10.10.6.247
+Discovered open port 3333/tcp on 10.10.6.247
+Discovered open port 3128/tcp on 10.10.6.247
+Completed SYN Stealth Scan at 23:33, 17.11s elapsed (1000 total ports)
+Initiating Service scan at 23:33
+Scanning 6 services on 10.10.6.247
+Completed Service scan at 23:34, 23.19s elapsed (6 services on 1 host)
+NSE: Script scanning 10.10.6.247.
+NSE: Starting runlevel 1 (of 2) scan.
+Initiating NSE at 23:34
+Completed NSE at 23:34, 1.24s elapsed
+NSE: Starting runlevel 2 (of 2) scan.
+Initiating NSE at 23:34
+Completed NSE at 23:34, 1.18s elapsed
+Nmap scan report for 10.10.6.247
+Host is up, received echo-reply ttl 61 (0.30s latency).
+Scanned at 2022-03-28 23:33:32 EDT for 43s
+Not shown: 994 closed tcp ports (reset)
+PORT     STATE SERVICE     REASON         VERSION
+21/tcp   open  ftp         syn-ack ttl 61 vsftpd 3.0.3
+22/tcp   open  ssh         syn-ack ttl 61 OpenSSH 7.2p2 Ubuntu 4ubuntu2.7 (Ubuntu Linux; protocol 2.0)
+139/tcp  open  netbios-ssn syn-ack ttl 61 Samba smbd 3.X - 4.X (workgroup: WORKGROUP)
+445/tcp  open  netbios-ssn syn-ack ttl 61 Samba smbd 3.X - 4.X (workgroup: WORKGROUP)
+3128/tcp open  http-proxy  syn-ack ttl 61 Squid http proxy 3.5.12
+3333/tcp open  http        syn-ack ttl 61 Apache httpd 2.4.18 ((Ubuntu))
+Service Info: Host: VULNUNIVERSITY; OSs: Unix, Linux; CPE: cpe:/o:linux:linux_kernel
+
+Read data files from: /usr/bin/../share/nmap
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 43.29 seconds
+           Raw packets sent: 1057 (46.484KB) | Rcvd: 1027 (41.096KB)
