@@ -1,0 +1,12 @@
+# Nmap 7.92 scan initiated Thu Mar 31 20:02:07 2022 as: nmap -vv -T4 -Pn -p- -oN scanport 10.10.85.133
+Increasing send delay for 10.10.85.133 from 0 to 5 due to 2471 out of 6177 dropped probes since last increase.
+Increasing send delay for 10.10.85.133 from 5 to 10 due to 11 out of 12 dropped probes since last increase.
+Nmap scan report for 10.10.85.133
+Host is up, received user-set (0.30s latency).
+Scanned at 2022-03-31 20:02:07 EDT for 801s
+Not shown: 65534 closed tcp ports (reset)
+PORT     STATE SERVICE REASON
+8012/tcp open  unknown syn-ack ttl 61
+
+Read data files from: /usr/bin/../share/nmap
+# Nmap done at Thu Mar 31 20:15:28 2022 -- 1 IP address (1 host up) scanned in 801.48 seconds
